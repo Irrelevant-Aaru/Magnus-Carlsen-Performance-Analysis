@@ -78,4 +78,5 @@ Open the notebooks in order: `DATA-CLEANING.ipynb` → `EDA.ipynb` → `ML-PREDI
 ## Author
 
 Priyansh Verma
-[Add LinkedIn / portfolio links here]
+
+- LinkedIn: in/priyanshverma1
