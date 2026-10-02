@@ -1,4 +1,3 @@
-```markdown
 # Magnus Carlsen Performance Analysis
 
 An end-to-end data analysis project exploring 9,336 of Magnus Carlsen's games on Chess.com (2014–2026), fetched via the public Chess.com API. The project investigates his opening performance, in-session fatigue, tilt after losses, and resilience under pressure — moving from raw API data through cleaning, exploratory analysis, and (in progress) predictive modeling.
@@ -79,7 +78,4 @@ Open the notebooks in order: `DATA-CLEANING.ipynb` → `EDA.ipynb` → `ML-PREDI
 ## Author
 
 Priyansh Verma
-https://linkedin.com/in/priyanshverma1
-```
-
-Send your next points whenever — I'll keep merging them in and give you the updated copy-paste block each time.
+[Add LinkedIn / portfolio links here]
