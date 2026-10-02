@@ -222,16 +222,9 @@ __marimo__/
 # Custom Whitelist Rules for Magnus Carlsen Analysis Project
 # =========================================================================
 
-# Explicitly ensure key assets never get ignored by mistake
-!*.ipynb
-!*.pbix
-!*.twbx
-!*.png
-!*.jpg
-!*.jpeg
-
 # DATA HANDLING:
 # Right now, chess dataset and model file will upload normally.
 # If they get too massive in the future, remove the '#' from the lines below:
 # *.csv
 # *.pkl
+# *.joblib
