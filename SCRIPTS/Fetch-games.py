@@ -24,7 +24,7 @@ username = "MagnusCarlsen"
 url = f"https://api.chess.com/pub/player/{username}/games/archives"
 data = safe_get_json(url)
 archives = data["archives"]
-print(f"✅ Total months: {len(archives)}")
+print(f" Total months: {len(archives)}")
 
 # Step 2: Loop through and download all games
 all_games = []
