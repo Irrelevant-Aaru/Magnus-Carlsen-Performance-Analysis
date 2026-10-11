@@ -56,6 +56,8 @@ Seen this way, the weak R² isn't an open question so much as an expected outcom
 ```
 magnus-carlsen-performance-analysis/
 ├── README.md
+├── LICENSE
+├── .gitignore
 ├── data/
 │   ├── magnus_games.csv                  # Raw data from Chess.com API
 │   ├── magnus_cleaned_games.csv          # Cleaned, full dataset (incl. chess960 etc.)
@@ -63,7 +65,7 @@ magnus-carlsen-performance-analysis/
 ├── notebooks/
 │   ├── DATA-CLEANING.ipynb
 │   ├── EDA.ipynb
-│   └── ML-PREDICTION.ipynb               # In progress
+│   └── ML-PREDICTION.ipynb
 ├── scripts/
 │   └── fetch_games.py                    # Chess.com API fetch script
 └── requirements.txt
